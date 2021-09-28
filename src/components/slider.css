@@ -1,0 +1,10 @@
+.carousel-item .img-fluid {
+  width: 100%;
+  height: 60vh;
+}
+
+.con {
+  width: 100%;
+  height: 60vh;
+  /* border-bottom: 0.01px solid #b2ff94; */
+}
